@@ -1,0 +1,16 @@
+
+SignalRClient/bin/
+
+SignalRClient/obj/
+
+MessagePublisher/bin/
+
+MessagePublisher/obj/
+
+NegotiationServer/bin/
+
+NegotiationServer/obj/
+
+SignalRManagementDemo.sln.DotSettings.user
+
+*.user
