@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegotiationServer", "NegotiationServer\NegotiationServer.csproj", "{B9BD0EA6-A652-4649-9FC1-F3725BA5C1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagePublisher", "MessagePublisher\MessagePublisher.csproj", "{095B96BA-E87E-446A-BBD6-31AED9596E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRClient", "SignalRClient\SignalRClient.csproj", "{66650CEB-2203-4D16-81EF-B9EA2102902C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BD0EA6-A652-4649-9FC1-F3725BA5C1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BD0EA6-A652-4649-9FC1-F3725BA5C1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BD0EA6-A652-4649-9FC1-F3725BA5C1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BD0EA6-A652-4649-9FC1-F3725BA5C1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095B96BA-E87E-446A-BBD6-31AED9596E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095B96BA-E87E-446A-BBD6-31AED9596E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095B96BA-E87E-446A-BBD6-31AED9596E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095B96BA-E87E-446A-BBD6-31AED9596E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66650CEB-2203-4D16-81EF-B9EA2102902C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66650CEB-2203-4D16-81EF-B9EA2102902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66650CEB-2203-4D16-81EF-B9EA2102902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66650CEB-2203-4D16-81EF-B9EA2102902C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
